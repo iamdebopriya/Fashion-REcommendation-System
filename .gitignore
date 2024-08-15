@@ -1,0 +1,39 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# TensorFlow
+*.h5
+
+# Streamlit
+*.log
+*.sqlite
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.sln
+*.ncb
+*.suo
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Local environment files
+*.local
